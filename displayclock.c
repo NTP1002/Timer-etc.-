@@ -23,6 +23,8 @@ int main()
 		Sleep(100);								// 100/1000 초 간격을 맞추기 위해 딜레이를 줌
 		system("cls");							//화면지우기
 
+		
+
 	} while (1);
 
 	return 0;	
